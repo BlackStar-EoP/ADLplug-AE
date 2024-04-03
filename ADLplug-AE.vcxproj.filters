@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\bank_manager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\configuration.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\messages.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\midi\insnames.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\nothing.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\pch\ADLplug_core.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\plugin_editor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\plugin_processor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\plugin_state.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\resources.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\algorithm_component.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\indicator_NxM.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\knob_component.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\midi_keyboard_ex.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\new_program_editor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\program_name_editor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\styled_knobs.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\vu_meter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\components\wave_label.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\look_and_feel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\utility\graphics.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\utility\image.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\utility\key_maps.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\ui\utility\knobman_skin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\utility\midi.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\utility\pak.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\utility\rt_checker.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\utility\simple_fifo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\worker.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\chip_settings.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\instrument.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\instrument_properties.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\player.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\parameter_block.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\ui\about_component.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\ui\components\algorithm_help.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\ui\components\opl3_waves.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\ui\main_component.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\ui\operator_editor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\measurer\chips\dosbox\dbopl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\measurer\chips\dosbox_opl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\sources\opl3\adl\measurer\measurer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_processors\juce_audio_processors_ara.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_processors\juce_audio_processors_lv2_libs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_graphics\juce_graphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_events\juce_events.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_core\juce_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_data_structures\juce_data_structures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Projects\Edge of Panic\ADLplug-AE\ADLplug-AE_artefacts\JuceLibraryCode\JuceHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\Edge of Panic\ADLplug-AE\CMakeFiles\448cc24e69d4eb39fc96de0f1f2700f1\JuceHeader.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\Edge of Panic\ADLplug-AE\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1FEEFF38-3E9B-3D14-9CB1-94285D2CE4E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{61A7EA7B-D6D5-3B07-B519-04FEAF11F732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{95E8EE60-007B-3EC4-875B-30804C1660B9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
