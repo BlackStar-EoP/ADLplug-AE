@@ -265,7 +265,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Projects\Edge of Panic\ADLplug-AE\external\ADLplug\thirdparty\wopn\wopn\wopn_file.c" />
+    <ClCompile Include="external\ADLplug\thirdparty\wopn\wopn\wopn_file.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="E:\Projects\Edge of Panic\ADLplug-AE\ZERO_CHECK.vcxproj">
